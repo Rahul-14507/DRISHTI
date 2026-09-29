@@ -77,8 +77,8 @@ Accelerated life testing (Burn-in) lasts up to $168$ hours per lot. Using early 
 
 Clone the repository and install all dependencies:
 ```bash
-git clone https://github.com/phanikumar822/SECOM-ML-MODEL.git
-cd SECOM-ML-MODEL
+git clone https://github.com/Rahul-14507/DRISHTI.git
+cd DRISHTI
 pip install -r requirements.txt
 ```
 
